@@ -29,7 +29,7 @@ terminal. The printed message in the running program should change to
 the new string.
 
 ## Bundles
-
+# adding comment
 Take note of the sample `pom.xml` file. This is not actually for Maven
 builds -- this is an Ant project afterall -- but for publishing builds
 for a Maven repository. It's packed up by the "bundle" target, which
